@@ -61,7 +61,7 @@ Each table is linked using primary and foreign keys, enabling rich, joined analy
 ### 4. Exploratory Data Analysis (EDA)
 Performed in Jupyter Notebook using Pandas, Matplotlib, and Seaborn.
 
-![EDA Screenshot][(images/eda_plot.png)](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%201.jpg?raw=true)
+![Image 1](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%201.jpg?raw=true)
 
 #### EDA Breakdown:
 - **Bivariate Analysis**
@@ -89,7 +89,7 @@ Performed in Jupyter Notebook using Pandas, Matplotlib, and Seaborn.
 
 The final deliverable is a set of **four interconnected dashboards** built in Power BI, enabling rich visual exploration of banking risk insights.
 
-![Dashboard Overview][(images/dashboard_main.png)](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%202.jpg?raw=true)
+![Image 2](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%202.jpg?raw=true)
 
 ### 🔹 1. Home Dashboard
 - Offers a **high-level snapshot** of the bank’s operations and client metrics.
@@ -103,8 +103,6 @@ The final deliverable is a set of **four interconnected dashboards** built in Po
   - Loan distribution by **client type**, **gender**, and **nationality**
   - Loan-to-income ratios and high-risk loan segments
 - Helps determine **which profiles are most likely to repay** and which are risk-prone.
-
-![Loan Analysis Sample](images/loan_analysis.png)
 
 ### 🔹 3. Deposit Analysis Dashboard
 - Visualizes trends in customer **savings and deposit behavior**.
@@ -165,21 +163,14 @@ Here are some ways this project can evolve further:
 
 > *Watch the full project in action with live dashboard walkthrough and insights explanation.*
 
-🎬 [Click here to view demo](#) <!-- Add actual video link or upload it to GitHub/YouTube -->
+🎬 [Click here to view demo](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Risk%20Insights%20End%20to%20End%20Project%20Video%20(1).mp4)
 
 ---
 
 Feel free to fork, use, or contribute to improve this project further!
 
 ---
-**Author**: [Your Name]  
-📧 Contact: [your.email@example.com]  
-🔗 GitHub: [github.com/yourhandle]
+**Author**: [Bhaskar Pal]  
+📧 Contact: [bhaskarpal.official@gmail.com]  
 """
 
-# Save the content to a README.md file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
