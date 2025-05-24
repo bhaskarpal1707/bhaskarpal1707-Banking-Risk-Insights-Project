@@ -1,9 +1,6 @@
-# Create the final README.md content with all sections and the added Power BI dashboard breakdown
-
-readme_content = """
 # 🏦 Risk Analytics in Banking & Financial Services
 
-![Power BI Dashboard]([images/dashboard_main.png](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Dashboard%20Image.png?raw=true))
+![Power BI Dashboard]([![Uploading image.png…]())](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Dashboard%20Image.png?raw=true))
 
 ## 📘 Overview
 
