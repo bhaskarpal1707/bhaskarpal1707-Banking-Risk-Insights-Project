@@ -1,6 +1,6 @@
 # 🏦 Risk Analytics in Banking & Financial Services
 
-![Power BI Dashboard]([![Uploading image.png…]())](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Dashboard%20Image.png?raw=true))
+![Power BI Dashboard](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Dashboard%20Image.png?raw=true)
 
 ## 📘 Overview
 
