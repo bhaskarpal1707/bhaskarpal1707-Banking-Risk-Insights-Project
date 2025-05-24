@@ -1,4 +1,4 @@
-# 🏦 Risk Analytics in Banking & Financial Services
+# 🏦 Comprehensive Banking Risk Insights
 
 ![Power BI Dashboard](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Banking%20Dashboard%20Image.png?raw=true)
 
@@ -61,7 +61,7 @@ Each table is linked using primary and foreign keys, enabling rich, joined analy
 ### 4. Exploratory Data Analysis (EDA)
 Performed in Jupyter Notebook using Pandas, Matplotlib, and Seaborn.
 
-![EDA Screenshot](images/eda_plot.png)
+![EDA Screenshot][(images/eda_plot.png)](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%201.jpg?raw=true)
 
 #### EDA Breakdown:
 - **Bivariate Analysis**
@@ -89,7 +89,7 @@ Performed in Jupyter Notebook using Pandas, Matplotlib, and Seaborn.
 
 The final deliverable is a set of **four interconnected dashboards** built in Power BI, enabling rich visual exploration of banking risk insights.
 
-![Dashboard Overview](images/dashboard_main.png)
+![Dashboard Overview][(images/dashboard_main.png)](https://github.com/bhaskarpal1707/bhaskarpal1707-Banking-Risk-Insights-Project/blob/main/Image%202.jpg?raw=true)
 
 ### 🔹 1. Home Dashboard
 - Offers a **high-level snapshot** of the bank’s operations and client metrics.
