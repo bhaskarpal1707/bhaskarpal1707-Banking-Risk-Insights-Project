@@ -170,7 +170,7 @@ Here are some ways this project can evolve further:
 Feel free to fork, use, or contribute to improve this project further!
 
 ---
-**Author**: [Bhaskar Pal]  
-📧 Contact: [bhaskarpal.official@gmail.com]  
+**Author**: Bhaskar Pal 
+📧 Contact: bhaskarpal.official@gmail.com 
 """
 
