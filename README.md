@@ -171,6 +171,7 @@ Feel free to fork, use, or contribute to improve this project further!
 
 ---
 **Author**: Bhaskar Pal
+```
 📧 Contact: [bhaskarpal.official@gmail.com 
 ```
 
